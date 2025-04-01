@@ -22,7 +22,7 @@
     "@vitejs/plugin-vue": "^5.0.4",
     "@vue/tsconfig": "^0.5.1",
     "aws-cdk": "^2.137.0",
-    "aws-cdk-lib": "^2.137.0",
+    "aws-cdk-lib": "^2.186.0",
     "constructs": "^10.3.0",
     "esbuild": "^0.20.2",
     "npm-run-all2": "^6.1.2",
